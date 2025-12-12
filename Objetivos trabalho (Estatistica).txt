@@ -1,0 +1,6 @@
+Objetivos trabalho (Estatistica):
+
+- caracterizar as variáveis
+- representar graficamente as variáveis segundo a amostra
+- caracterizar os grupos segundo a altura e o peso (altura e peso neste caso do exercício do R)
+- estudar a correlação que existe entre as variáveis Altura e peso (altura e peso neste caso do exercício do R)
